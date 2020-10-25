@@ -1,0 +1,73 @@
+
+---Upload files---
+Customizer file was not uploaded. Error: No file provided.
+
+---Upload files---
+Redux file was not uploaded. Error: No file provided.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/jongkoding
+Data file = C:\xampp\htdocs\jongkoding/wp-content/uploads/2020/10/demo-content-modern.xml
+Widget file = C:\xampp\htdocs\jongkoding/wp-content/uploads/2020/10/demo-widgets-modern.wie
+Customizer file = not defined!
+Redux files:
+not defined!
+
+---pt-ocdi/before_content_import---
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---pt-ocdi/before_widgets_import---
+
+
+---Importing widgets---
+sidebar-1 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Cari - No Title - Imported to Inactive
+Pos-pos Terbaru - No Title - Imported to Inactive
+Komentar Terbaru - No Title - Imported to Inactive
+Arsip - No Title - Imported to Inactive
+Kategori - No Title - Imported to Inactive
+Meta - No Title - Imported to Inactive
+
+Footer Widgets : 
+
+Komentar Terbaru - No Title - Imported
+Menu Navigasi - Theme Links - Imported
+Teks - About Modern - Imported
+
+Sidebar with widgets : 
+
+Cari - Search the site - Imported
+Teks - About Modern - Imported
+
+
+
+---pt-ocdi/after_import---
+

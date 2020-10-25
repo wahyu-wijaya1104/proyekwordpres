@@ -1,0 +1,1125 @@
+# Translation of Themes - Zakra in Indonesian
+# This file is distributed under the same license as the Themes - Zakra package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-01-31 04:37:57+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: id\n"
+"Project-Id-Version: Themes - Zakra\n"
+
+#. Theme Name of the theme
+#: inc/helpers.php:153 inc/admin/class-zakra-welcome-notice.php:46
+#: inc/admin/class-zakra-dashboard.php:92
+msgid "Zakra"
+msgstr "Zakra"
+
+#. Template Name of the theme
+msgid "Page Builder"
+msgstr "Page Builder"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content-single.php:75
+#: template-parts/blog/blog-post-layout.php:70
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Lanjutkan membaca<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: template-parts/content-single.php:88 template-parts/content-page.php:24
+#: template-parts/blog/blog-post-layout.php:84
+msgid "Pages:"
+msgstr "Laman:"
+
+#: template-parts/content-none.php:46
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Sepertinya kami tidak dapat menemukan apa yang Anda cari. Mungkin pencarian akan membantu."
+
+#: template-parts/content-none.php:39
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Maaf, tidak ada yang cocok dengan kata yang anda cari. Silahkan coba lagi dengan kata kunci yang lain"
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:26
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Sudah siap menerbitkan pos pertamamu? <a href=\"%1$s\">Mulai di sini</a>."
+
+#: template-parts/content-none.php:15
+msgid "Nothing Found"
+msgstr "Tidak Ditemukan"
+
+#: inc/customizer/options/content/class-zakra-customize-blog-archive-option.php:114
+#: inc/hooks/content.php:46
+msgid "Read More"
+msgstr "Selengkapnya"
+
+#. translators: %s: search query.
+#: search.php:23
+msgid "Search Results for: %s"
+msgstr "Hasil Pencarian untuk: %s"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content-page.php:37
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Sunting <span class=\"screen-reader-text\">%s</span>"
+
+#: inc/customizer/controls/php/class-zakra-fonts.php:144
+msgid "Ultra-Bold 900 Italic"
+msgstr "Ultra-Bold 900 Italic"
+
+#: inc/customizer/controls/php/class-zakra-fonts.php:142
+#: inc/customizer/controls/php/class-zakra-fonts.php:143
+msgid "Ultra-Bold 900"
+msgstr "Ultra-Bold 900"
+
+#: inc/customizer/controls/php/class-zakra-fonts.php:141
+msgid "Extra-Bold 800 Italic"
+msgstr "Extra-Bold 800 Italic"
+
+#: inc/customizer/controls/php/class-zakra-fonts.php:139
+#: inc/customizer/controls/php/class-zakra-fonts.php:140
+msgid "Extra-Bold 800"
+msgstr "Extra-Bold 800"
+
+#: inc/customizer/controls/php/class-zakra-fonts.php:138
+msgid "Bold 700 Italic"
+msgstr "Bold 700 Italic"
+
+#: inc/customizer/controls/php/class-zakra-fonts.php:137
+msgid "Bold 700"
+msgstr "Bold 700"
+
+#: inc/customizer/controls/php/class-zakra-fonts.php:136
+msgid "Semi-Bold 600 Italic"
+msgstr "Semi-Bold 600 Italic"
+
+#: inc/customizer/controls/php/class-zakra-fonts.php:134
+#: inc/customizer/controls/php/class-zakra-fonts.php:135
+msgid "Semi-Bold 600"
+msgstr "Semi-Bold 600"
+
+#: inc/customizer/controls/php/class-zakra-fonts.php:133
+msgid "Medium 500 Italic"
+msgstr "Medium 500 Italic"
+
+#: inc/customizer/controls/php/class-zakra-fonts.php:132
+msgid "Medium 500"
+msgstr "Medium 500"
+
+#: inc/customizer/controls/php/class-zakra-fonts.php:131
+msgid "Normal 400 Italic"
+msgstr "Normal 400 Italic"
+
+#: inc/customizer/controls/php/class-zakra-fonts.php:130
+msgid "Normal 400"
+msgstr "Normal 400"
+
+#: inc/customizer/controls/php/class-zakra-fonts.php:129
+msgid "Book 300 Italic"
+msgstr "Book 300 Italic"
+
+#: inc/customizer/controls/php/class-zakra-fonts.php:128
+msgid "Book 300"
+msgstr "Book 300"
+
+#: inc/customizer/controls/php/class-zakra-fonts.php:127
+msgid "Light 200 Italic"
+msgstr "Light 200 Italic"
+
+#: inc/customizer/controls/php/class-zakra-fonts.php:126
+msgid "Light 200"
+msgstr "Light 200"
+
+#: inc/customizer/controls/php/class-zakra-fonts.php:125
+msgid "Ultra-Light 100 Italic"
+msgstr "Ultra-Light 100 Italic"
+
+#: inc/customizer/controls/php/class-zakra-fonts.php:123
+#: inc/customizer/controls/php/class-zakra-fonts.php:124
+msgid "Ultra-Light 100"
+msgstr "Ultra-Light 100"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:341
+#: inc/customizer/options/class-zakra-customize-base-option.php:80
+#: inc/customizer/options/footer/class-zakra-customize-footer-bottom-bar-option.php:72
+#: inc/customizer/options/footer/class-zakra-customize-footer-bottom-bar-option.php:154
+#: inc/customizer/options/header/class-zakra-customize-primary-menu-item-option.php:40
+#: inc/customizer/options/header/class-zakra-customize-header-top-option.php:71
+#: inc/customizer/options/header/class-zakra-customize-header-top-option.php:155
+msgid "None"
+msgstr "Tidak Satupun"
+
+#: inc/customizer/controls/php/class-zakra-customize-typography-control.php:149
+msgid "Variant"
+msgstr "Varian"
+
+#: inc/customizer/controls/php/class-zakra-customize-slider-control.php:70
+msgid "Reset"
+msgstr "Reset"
+
+#: inc/customizer/controls/php/class-zakra-customize-dimensions-control.php:130
+msgid "Right"
+msgstr "Kanan"
+
+#: inc/customizer/controls/php/class-zakra-customize-dimensions-control.php:132
+msgid "Left"
+msgstr "Kiri"
+
+#: inc/customizer/controls/php/class-zakra-customize-dimensions-control.php:131
+msgid "Bottom"
+msgstr "Bawah"
+
+#: inc/customizer/controls/php/class-zakra-customize-dimensions-control.php:129
+msgid "Top"
+msgstr "Atas"
+
+#: inc/customizer/controls/php/class-zakra-customize-typography-control.php:192
+msgid "Line Height"
+msgstr "Tinggi Barisan"
+
+#: inc/customizer/options/content/class-zakra-customize-page-header-option.php:147
+msgid "Font Size"
+msgstr "Ukuran Font"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:159
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:196
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:340
+#: inc/customizer/controls/php/class-zakra-customize-color-control.php:91
+#: inc/customizer/options/global/class-zakra-customize-sidebar-layout-option.php:47
+msgid "Default"
+msgstr "Bawaan"
+
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:164
+msgid "Fixed"
+msgstr "Tetap"
+
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:159
+msgid "Scroll"
+msgstr "Gulir"
+
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:154
+msgid "Background Attachment"
+msgstr "Lampiran Latar Belakang"
+
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:147
+msgid "Auto"
+msgstr "Auto"
+
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:142
+msgid "Contain"
+msgstr "Mengandung"
+
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:137
+msgid "Cover"
+msgstr "Sampul"
+
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:132
+msgid "Background Size"
+msgstr "Ukuran Latar Belakang"
+
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:126
+msgid "Center Bottom"
+msgstr "Tengah Bawah"
+
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:123
+msgid "Center Center"
+msgstr "Tengah Tengah"
+
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:120
+msgid "Center Top"
+msgstr "Tengah Atas"
+
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:117
+msgid "Right Bottom"
+msgstr "Kanan Bawah"
+
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:114
+msgid "Right Center"
+msgstr "Kanan Tengah"
+
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:111
+msgid "Right Top"
+msgstr "Kanan Atas"
+
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:108
+msgid "Left Bottom"
+msgstr "Kiri Bawah"
+
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:105
+msgid "Left Center"
+msgstr "Kiri Tengah"
+
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:102
+msgid "Left Top"
+msgstr "Kiri Atas"
+
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:98
+msgid "Background Position"
+msgstr "Posisi Latar Belakang"
+
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:92
+msgid "Repeat Vertically"
+msgstr "Ulangi Vertikal"
+
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:89
+msgid "Repeat Horizontally"
+msgstr "Ulangi Horizontal"
+
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:86
+msgid "Repeat All"
+msgstr "Ulangi Semua"
+
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:83
+msgid "No Repeat"
+msgstr "Tidak Diulangi"
+
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:79
+msgid "Background Repeat"
+msgstr "Pengulangan Latar Belakang"
+
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:71
+msgid "Select File"
+msgstr "Pilih Berkas"
+
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:69
+msgid "Remove"
+msgstr "Singkirkan"
+
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:66
+msgid "No File Selected"
+msgstr "Tidak Ada Berkas Dipilih"
+
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:59
+msgid "Background Image"
+msgstr "Gambar Latar Belakang"
+
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:48
+#: inc/customizer/options/footer/class-zakra-customize-scroll-to-top-option.php:126
+#: inc/customizer/options/global/class-zakra-customize-button-option.php:158
+#: inc/customizer/options/header/class-zakra-customize-header-button-option.php:178
+msgid "Background Color"
+msgstr "Warna Latar Belakang"
+
+#: inc/customizer/options/global/class-zakra-customize-typography-option.php:69
+msgid "Heading"
+msgstr "Heading"
+
+#: inc/customizer/options/global/class-zakra-customize-typography-option.php:44
+msgid "Body"
+msgstr "Body"
+
+#: inc/customizer/options/content/class-zakra-customize-blog-archive-option.php:101
+#: inc/customizer/options/content/class-zakra-customize-single-blog-post-option.php:90
+msgid "Categories"
+msgstr "Kategori"
+
+#: inc/customizer/options/content/class-zakra-customize-single-blog-post-option.php:32
+msgid "Single Post Content Order"
+msgstr "Susunan Konten Pos Tunggal"
+
+#: inc/customizer/options/header/class-zakra-customize-header-main-option.php:70
+msgid "Enable Search Icon"
+msgstr "Adakan Ikon Pencarian"
+
+#: inc/customizer/register-panels-and-sections.php:282
+#: inc/customizer/options/footer/class-zakra-customize-footer-bottom-bar-option.php:74
+#: inc/customizer/options/footer/class-zakra-customize-footer-bottom-bar-option.php:156
+#: inc/customizer/options/header/class-zakra-customize-header-top-option.php:73
+#: inc/customizer/options/header/class-zakra-customize-header-top-option.php:157
+msgid "Menu"
+msgstr "Menu"
+
+#: inc/customizer/options/header/class-zakra-customize-header-top-option.php:41
+msgid "Enable Header Top Bar"
+msgstr "Adakan Bar Header Atas"
+
+#: inc/customizer/options/global/class-zakra-customize-base-colors-option.php:73
+msgid "Primary Color"
+msgstr "Warna Utama"
+
+#: inc/customizer/options/content/class-zakra-customize-page-header-option.php:125
+msgid "Enable Breadcrumbs"
+msgstr "Adakan Breadcrumb"
+
+#: inc/customizer/register-panels-and-sections.php:339
+#: inc/customizer/options/content/class-zakra-customize-blog-archive-option.php:76
+#: inc/customizer/options/content/class-zakra-customize-blog-sidebar-option.php:84
+#: inc/customizer/options/content/class-zakra-customize-single-blog-post-option.php:57
+msgid "Content"
+msgstr "Konten"
+
+#: inc/customizer/options/content/class-zakra-customize-blog-archive-option.php:74
+#: inc/customizer/options/content/class-zakra-customize-blog-sidebar-option.php:58
+#: inc/customizer/options/content/class-zakra-customize-single-blog-post-option.php:55
+msgid "Title"
+msgstr "Judul"
+
+#: inc/customizer/options/content/class-zakra-customize-blog-archive-option.php:75
+#: inc/customizer/options/content/class-zakra-customize-single-blog-post-option.php:56
+msgid "Meta Tags"
+msgstr "Tag Meta"
+
+#: inc/customizer/options/content/class-zakra-customize-blog-archive-option.php:70
+#: inc/customizer/options/content/class-zakra-customize-blog-archive-option.php:97
+#: inc/customizer/options/content/class-zakra-customize-single-blog-post-option.php:33
+#: inc/customizer/options/content/class-zakra-customize-single-blog-post-option.php:67
+msgid "Drag & Drop items to re-arrange the order"
+msgstr "Drag & Drop item untuk menyusun ulang susunan"
+
+#: inc/customizer/options/content/class-zakra-customize-blog-archive-option.php:69
+msgid "Post Content Order"
+msgstr "Susunan Konten Pos"
+
+#: inc/customizer/register-panels-and-sections.php:419
+msgid "Footer"
+msgstr "Footer"
+
+#: inc/customizer/register-panels-and-sections.php:378
+#: inc/customizer/options/global/class-zakra-customize-sidebar-layout-option.php:75
+#: inc/admin/class-zakra-dashboard.php:79
+msgid "Single Post"
+msgstr "Pos Tunggal"
+
+#: inc/customizer/options/global/class-zakra-customize-sidebar-layout-option.php:89
+msgid "Page"
+msgstr "Laman"
+
+#: inc/customizer/register-panels-and-sections.php:131
+#: inc/customizer/options/content/class-zakra-customize-blog-sidebar-option.php:31
+#: inc/customizer/options/content/class-zakra-customize-page-header-option.php:357
+#: inc/customizer/options/header/class-zakra-customize-primary-menu-item-option.php:172
+#: inc/customizer/options/header/class-zakra-customize-site-identity-option.php:32
+#: inc/customizer/options/header/class-zakra-customize-mobile-menu-option.php:33
+#: inc/customizer/options/header/class-zakra-customize-primary-menu-dropdown-item-option.php:34
+#: inc/admin/class-zakra-dashboard.php:81
+msgid "Typography"
+msgstr "Tipografi"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:115
+#: inc/admin/class-zakra-dashboard.php:77
+msgid "Layout"
+msgstr "Tata Letak"
+
+#: inc/customizer/options/content/class-zakra-customize-page-header-option.php:112
+#: inc/hooks/header.php:616
+msgid "Breadcrumbs"
+msgstr "Breadcrumb"
+
+#: inc/customizer/controls/php/class-zakra-customize-typography-control.php:182
+#: inc/customizer/options/footer/class-zakra-customize-footer-widget-option.php:316
+#: inc/customizer/options/footer/class-zakra-customize-scroll-to-top-option.php:68
+#: inc/customizer/options/footer/class-zakra-customize-footer-bottom-bar-option.php:370
+#: inc/customizer/options/header/class-zakra-customize-header-main-option.php:160
+#: inc/customizer/options/header/class-zakra-customize-primary-menu-option.php:119
+msgid "Color"
+msgstr "Warna"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:82
+#: inc/customizer/register-panels-and-sections.php:202
+msgid "Header"
+msgstr "Header"
+
+#: inc/class-breadcrumb-trail.php:790
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr "W"
+
+#: inc/class-breadcrumb-trail.php:763 inc/class-breadcrumb-trail.php:1203
+msgctxt "daily archives date format"
+msgid "j"
+msgstr "j"
+
+#: inc/class-breadcrumb-trail.php:762 inc/class-breadcrumb-trail.php:828
+#: inc/class-breadcrumb-trail.php:1201
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr "F"
+
+#: inc/class-breadcrumb-trail.php:761 inc/class-breadcrumb-trail.php:789
+#: inc/class-breadcrumb-trail.php:827 inc/class-breadcrumb-trail.php:853
+#: inc/class-breadcrumb-trail.php:1199
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/class-breadcrumb-trail.php:745
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr "g a"
+
+#: inc/class-breadcrumb-trail.php:728
+msgctxt "minute archives time format"
+msgid "i"
+msgstr "i"
+
+#: inc/class-breadcrumb-trail.php:711
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr "g:i a"
+
+#. Translators: Weekly archive title. %s is the week date format.
+#: inc/class-breadcrumb-trail.php:281
+msgid "Week %s"
+msgstr "Minggu %s"
+
+#. Translators: Minute archive title. %s is the minute time format.
+#: inc/class-breadcrumb-trail.php:279
+msgid "Minute %s"
+msgstr "Menit %s"
+
+#. Translators: %s is the page number.
+#: inc/class-breadcrumb-trail.php:277
+msgid "Comment Page %s"
+msgstr "Laman Komentar %s"
+
+#. Translators: %s is the page number.
+#: inc/class-breadcrumb-trail.php:275
+msgid "Page %s"
+msgstr "Laman %s"
+
+#. Translators: %s is the search query.
+#: inc/class-breadcrumb-trail.php:273
+msgid "Search results for: %s"
+msgstr "Hasil pencarian untuk: %s"
+
+#: inc/class-breadcrumb-trail.php:271
+msgid "Archives"
+msgstr "Arsip"
+
+#: inc/class-breadcrumb-trail.php:270
+msgid "404 Not Found"
+msgstr "404 Tidak Ditemukan"
+
+#: inc/class-breadcrumb-trail.php:269
+msgid "Home"
+msgstr "Beranda"
+
+#: inc/class-breadcrumb-trail.php:268
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr "Breadcrumbs"
+
+#: inc/class-breadcrumb-trail.php:267
+msgid "Browse:"
+msgstr "Temukan:"
+
+#: inc/hooks/header.php:62
+msgid "Skip to content"
+msgstr "Loncat ke konten"
+
+#: functions.php:122
+msgid "Add widgets here."
+msgstr "Tambah Widget disini."
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:153
+#: inc/customizer/register-panels-and-sections.php:404
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: functions.php:28
+msgid "Primary"
+msgstr "Utama"
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr "Komentar ditutup."
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:41
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s tanggapan pada &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s tanggapan pada &ldquo;%2$s&rdquo;"
+
+#. translators: 1: title.
+#: comments.php:35
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "Satu tanggapan pada &ldquo;%1$s&rdquo;"
+
+#: inc/template-functions.php:351
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ups! Halaman tidak ditemukan."
+
+#: inc/template-functions.php:242
+msgid "Search Results"
+msgstr "Hasil Pencarian"
+
+#: inc/template-functions.php:240
+msgid "Page Not Found"
+msgstr "Halaman Tidak Ditemukan"
+
+#. translators: %s: year.
+#: inc/template-functions.php:230
+msgid "Year: %s"
+msgstr "Tahun: %s"
+
+#. translators: %s: month
+#: inc/template-functions.php:226
+msgid "Month: %s"
+msgstr "Bulan: %s"
+
+#. translators: %s: day
+#: inc/template-functions.php:222
+msgid "Day: %s"
+msgstr "Hari: %s"
+
+#. translators: %s: author.
+#: inc/template-functions.php:209
+msgid "Author: %s"
+msgstr "Penulis: %s"
+
+#. translators: 1: list of tags.
+#: inc/template-tags.php:126
+msgid "Tagged %1$s"
+msgstr "Tag: %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:131
+msgctxt "list item separator"
+msgid ", "
+msgstr ","
+
+#. translators: %s: post title
+#: inc/template-tags.php:101
+msgid "No Comments<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Tidak Ada Komentar<span class=\"screen-reader-text\"> pada %s</span>"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:80
+msgid ", "
+msgstr ","
+
+#. translators: %s: post author.
+#: inc/template-tags.php:53
+msgctxt "post author"
+msgid "By %s"
+msgstr "Oleh %s"
+
+#. translators: 1: list of categories.
+#: inc/template-tags.php:75
+msgid "Posted in %1$s"
+msgstr "Dipublikasi di %1$s"
+
+#. translators: %s: post date.
+#: inc/template-tags.php:19
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Dipublikasi pada %s"
+
+#: inc/hooks/footer.php:240
+msgid "Scroll to top"
+msgstr "Kembali ke Atas"
+
+#: inc/customizer/controls/php/class-zakra-customize-typography-control.php:172
+msgid "Font size"
+msgstr "Ukuran font"
+
+#: inc/customizer/controls/php/class-zakra-customize-typography-control.php:157
+msgid "Subset(s)"
+msgstr "Subset(s)"
+
+#: inc/customizer/controls/php/class-zakra-customize-typography-control.php:141
+msgid "Font family"
+msgstr "Font family"
+
+#: inc/customizer/options/header/class-zakra-customize-primary-menu-option.php:36
+msgid "Disable Primary Menu"
+msgstr "Tiadakan Menu Utama"
+
+#: inc/customizer/options/header/class-zakra-customize-header-top-option.php:241
+msgid "Header Top Text Color"
+msgstr "Warna Teks Header Atas"
+
+#: inc/customizer/options/footer/class-zakra-customize-footer-bottom-bar-option.php:196
+#: inc/customizer/options/header/class-zakra-customize-header-top-option.php:198
+msgid "Select a Menu for Right Content"
+msgstr "Pilih Menu untuk Konten Bagian Kanan"
+
+#: inc/customizer/options/footer/class-zakra-customize-footer-bottom-bar-option.php:172
+#: inc/customizer/options/header/class-zakra-customize-header-top-option.php:172
+msgid "Text/HTML for Right Content"
+msgstr "Teks/HTML untuk Konten bagian Kanan"
+
+#: inc/customizer/options/footer/class-zakra-customize-footer-bottom-bar-option.php:134
+#: inc/customizer/options/footer/class-zakra-customize-footer-bottom-bar-option.php:149
+#: inc/customizer/options/header/class-zakra-customize-header-top-option.php:136
+#: inc/customizer/options/header/class-zakra-customize-header-top-option.php:152
+msgid "Right Content"
+msgstr "Konten Bagian Kanan"
+
+#: inc/customizer/options/footer/class-zakra-customize-footer-bottom-bar-option.php:114
+#: inc/customizer/options/header/class-zakra-customize-header-top-option.php:114
+msgid "Select a Menu for Left Content"
+msgstr "Pilih Menu untuk Konten bagian Kiri"
+
+#: inc/customizer/options/footer/class-zakra-customize-footer-bottom-bar-option.php:90
+#: inc/customizer/options/header/class-zakra-customize-header-top-option.php:88
+msgid "Text/HTML for Left Content"
+msgstr "Teks/HTML untuk Konten bagian Kiri"
+
+#: inc/customizer/options/footer/class-zakra-customize-footer-bottom-bar-option.php:75
+#: inc/customizer/options/footer/class-zakra-customize-footer-bottom-bar-option.php:157
+#: inc/customizer/options/header/class-zakra-customize-header-top-option.php:74
+#: inc/customizer/options/header/class-zakra-customize-header-top-option.php:158
+msgid "Widget"
+msgstr "Widget"
+
+#: inc/customizer/options/footer/class-zakra-customize-footer-bottom-bar-option.php:73
+#: inc/customizer/options/footer/class-zakra-customize-footer-bottom-bar-option.php:155
+#: inc/customizer/options/header/class-zakra-customize-header-top-option.php:72
+#: inc/customizer/options/header/class-zakra-customize-header-top-option.php:156
+msgid "Text/HTML"
+msgstr "Text/HTML"
+
+#: inc/customizer/options/footer/class-zakra-customize-footer-bottom-bar-option.php:52
+#: inc/customizer/options/footer/class-zakra-customize-footer-bottom-bar-option.php:67
+#: inc/customizer/options/header/class-zakra-customize-header-top-option.php:52
+#: inc/customizer/options/header/class-zakra-customize-header-top-option.php:68
+msgid "Left Content"
+msgstr "Konten bagian Kiri"
+
+#: inc/customizer/options/header/class-zakra-customize-header-main-option.php:113
+#: inc/customizer/options/header/class-zakra-customize-primary-menu-option.php:65
+msgid "Border Bottom"
+msgstr "Pembatas Bawah"
+
+#: inc/customizer/options/global/class-zakra-customize-base-colors-option.php:132
+msgid "Border Color"
+msgstr "Warna Pembatas"
+
+#: inc/customizer/options/global/class-zakra-customize-button-option.php:227
+#: inc/customizer/options/header/class-zakra-customize-header-button-option.php:235
+msgid "Roundness"
+msgstr "Melingkar"
+
+#: inc/customizer/options/global/class-zakra-customize-button-option.php:130
+#: inc/customizer/options/header/class-zakra-customize-header-button-option.php:156
+msgid "Text Hover Color"
+msgstr "Warna Teks saat Disentuh"
+
+#: inc/customizer/options/footer/class-zakra-customize-scroll-to-top-option.php:155
+#: inc/customizer/options/global/class-zakra-customize-button-option.php:186
+#: inc/customizer/options/header/class-zakra-customize-header-button-option.php:200
+msgid "Background Hover Color"
+msgstr "Warna Latar Belakang ketika Disentuh"
+
+#: inc/customizer/options/footer/class-zakra-customize-scroll-to-top-option.php:97
+msgid "Hover Color"
+msgstr "Warna ketika Disentuh"
+
+#: inc/customizer/options/footer/class-zakra-customize-scroll-to-top-option.php:36
+msgid "Enable Scroll to Top"
+msgstr "Adakan Kembali ke Atas"
+
+#: inc/customizer/options/footer/class-zakra-customize-footer-widget-option.php:389
+msgid "List Item Border Bottom Color"
+msgstr "Warna Pembatas Bawah Daftar Item"
+
+#: inc/customizer/options/footer/class-zakra-customize-footer-widget-option.php:335
+#: inc/customizer/options/footer/class-zakra-customize-footer-widget-option.php:358
+msgid "List Item Border Bottom"
+msgstr "Pembatas Bawah Daftar Item"
+
+#: inc/customizer/options/footer/class-zakra-customize-footer-widget-option.php:149
+msgid "Widget Title Color"
+msgstr "Warna Judul Widget"
+
+#: inc/customizer/options/footer/class-zakra-customize-footer-widget-option.php:49
+msgid "Hide Widget Title"
+msgstr "Sembunyikan Judul Widget"
+
+#: inc/customizer/options/footer/class-zakra-customize-footer-widget-option.php:69
+msgid "Footer Widgets Style"
+msgstr "Gaya Widget Footer"
+
+#: inc/customizer/options/footer/class-zakra-customize-footer-widget-option.php:36
+msgid "Enable Footer Widgets"
+msgstr "Adakan Widget Footer"
+
+#: inc/customizer/options/footer/class-zakra-customize-footer-widget-option.php:262
+#: inc/customizer/options/footer/class-zakra-customize-footer-bottom-bar-option.php:322
+msgid "Border Top"
+msgstr "Pembatas Atas"
+
+#: inc/customizer/options/global/class-zakra-customize-container-option.php:120
+msgid "Sidebar Width"
+msgstr "Lebar Sidebar"
+
+#: inc/customizer/options/global/class-zakra-customize-container-option.php:93
+#: inc/customizer/options/global/class-zakra-customize-container-option.php:121
+msgid "Only works for left/ right sidebar layout"
+msgstr "Hanya berfungsi untuk tata letak sidebar kiri/kanan"
+
+#: inc/customizer/options/global/class-zakra-customize-container-option.php:92
+msgid "Content Width"
+msgstr "Lebar Konten"
+
+#: inc/customizer/options/global/class-zakra-customize-container-option.php:65
+msgid "Container Width"
+msgstr "Lebar Pembungkus"
+
+#: inc/customizer/options/global/class-zakra-customize-container-option.php:36
+msgid "Container Style"
+msgstr "Gaya Pembungkus"
+
+#: inc/customizer/options/content/class-zakra-customize-blog-archive-option.php:154
+msgid "Read More Style"
+msgstr "Gaya Selengkapnya"
+
+#: inc/customizer/options/content/class-zakra-customize-blog-archive-option.php:134
+msgid "Enable Read More"
+msgstr "Adakan Selengkapnya"
+
+#: inc/customizer/options/content/class-zakra-customize-blog-archive-option.php:50
+msgid "Excerpt"
+msgstr "Kutipan"
+
+#: inc/customizer/options/content/class-zakra-customize-blog-archive-option.php:47
+msgid "Post Content"
+msgstr "Konten Pos"
+
+#: inc/customizer/options/content/class-zakra-customize-page-header-option.php:338
+#: inc/customizer/options/footer/class-zakra-customize-footer-widget-option.php:243
+#: inc/customizer/options/footer/class-zakra-customize-footer-bottom-bar-option.php:309
+#: inc/customizer/options/global/class-zakra-customize-link-colors-option.php:64
+msgid "Link Hover Color"
+msgstr "Warna Tautan ketika Disentuh"
+
+#: inc/customizer/options/content/class-zakra-customize-page-header-option.php:309
+#: inc/customizer/options/footer/class-zakra-customize-footer-widget-option.php:213
+#: inc/customizer/options/footer/class-zakra-customize-footer-bottom-bar-option.php:286
+#: inc/customizer/options/global/class-zakra-customize-link-colors-option.php:42
+msgid "Link Color"
+msgstr "Warna Tautan"
+
+#: inc/customizer/options/content/class-zakra-customize-page-header-option.php:280
+msgid "Separator Color"
+msgstr "Warna Pemisah"
+
+#: inc/customizer/options/content/class-zakra-customize-page-header-option.php:193
+#: inc/customizer/options/global/class-zakra-customize-button-option.php:63
+#: inc/customizer/options/header/class-zakra-customize-header-button-option.php:101
+msgid "Padding"
+msgstr "Jarak Dalam"
+
+#: inc/customizer/options/content/class-zakra-customize-page-header-option.php:95
+msgid "Alignment"
+msgstr "Penjajaran"
+
+#: inc/customizer/options/content/class-zakra-customize-page-header-option.php:251
+#: inc/customizer/options/footer/class-zakra-customize-footer-widget-option.php:184
+#: inc/customizer/options/footer/class-zakra-customize-footer-bottom-bar-option.php:263
+#: inc/customizer/options/global/class-zakra-customize-button-option.php:102
+#: inc/customizer/options/global/class-zakra-customize-base-colors-option.php:105
+#: inc/customizer/options/header/class-zakra-customize-header-button-option.php:134
+msgid "Text Color"
+msgstr "Warna Teks"
+
+#: inc/customizer/options/content/class-zakra-customize-page-header-option.php:75
+msgid "Div"
+msgstr "Div"
+
+#: inc/customizer/options/content/class-zakra-customize-page-header-option.php:74
+msgid "Paragraph"
+msgstr "Paragraf"
+
+#: inc/customizer/options/content/class-zakra-customize-page-header-option.php:73
+msgid "Span"
+msgstr "Span"
+
+#: inc/customizer/options/content/class-zakra-customize-page-header-option.php:72
+#: inc/customizer/options/global/class-zakra-customize-typography-option.php:225
+msgid "Heading 6"
+msgstr "Penajukan 6"
+
+#: inc/customizer/options/content/class-zakra-customize-page-header-option.php:71
+#: inc/customizer/options/global/class-zakra-customize-typography-option.php:199
+msgid "Heading 5"
+msgstr "Penajukan 5"
+
+#: inc/customizer/options/content/class-zakra-customize-page-header-option.php:70
+#: inc/customizer/options/global/class-zakra-customize-typography-option.php:173
+msgid "Heading 4"
+msgstr "Penajukan 4"
+
+#: inc/customizer/options/content/class-zakra-customize-page-header-option.php:69
+#: inc/customizer/options/global/class-zakra-customize-typography-option.php:147
+msgid "Heading 3"
+msgstr "Penajukan 3"
+
+#: inc/customizer/options/content/class-zakra-customize-page-header-option.php:68
+#: inc/customizer/options/global/class-zakra-customize-typography-option.php:121
+msgid "Heading 2"
+msgstr "Penajukan 2"
+
+#: inc/customizer/options/content/class-zakra-customize-page-header-option.php:67
+#: inc/customizer/options/global/class-zakra-customize-typography-option.php:95
+msgid "Heading 1"
+msgstr "Penajukan 1"
+
+#: inc/customizer/options/content/class-zakra-customize-page-header-option.php:64
+msgid "Markup"
+msgstr "Markup"
+
+#: inc/customizer/options/content/class-zakra-customize-page-header-option.php:50
+msgid "Content Area"
+msgstr "Area Konten"
+
+#: inc/customizer/options/content/class-zakra-customize-blog-archive-option.php:104
+#: inc/customizer/options/content/class-zakra-customize-single-blog-post-option.php:93
+msgid "Tags"
+msgstr "Tag"
+
+#: inc/customizer/options/content/class-zakra-customize-blog-archive-option.php:103
+#: inc/customizer/options/content/class-zakra-customize-single-blog-post-option.php:92
+msgid "Date"
+msgstr "Tanggal"
+
+#: inc/customizer/options/content/class-zakra-customize-blog-archive-option.php:102
+#: inc/customizer/options/content/class-zakra-customize-single-blog-post-option.php:91
+msgid "Author"
+msgstr "Penulis"
+
+#: inc/customizer/options/content/class-zakra-customize-blog-archive-option.php:100
+#: inc/customizer/options/content/class-zakra-customize-single-blog-post-option.php:89
+msgid "Comments"
+msgstr "Komentar"
+
+#: inc/customizer/options/content/class-zakra-customize-blog-archive-option.php:96
+#: inc/customizer/options/content/class-zakra-customize-single-blog-post-option.php:66
+msgid "Meta Tags Order"
+msgstr "Susunan Tag Meta"
+
+#: inc/customizer/options/content/class-zakra-customize-blog-archive-option.php:73
+#: inc/customizer/options/content/class-zakra-customize-single-blog-post-option.php:54
+msgid "Featured Image"
+msgstr "Gambar Unggulan"
+
+#: inc/customizer/register-panels-and-sections.php:457
+msgid "Scroll to Top"
+msgstr "Kembali ke Atas"
+
+#: inc/customizer/register-panels-and-sections.php:444
+#: inc/admin/class-zakra-dashboard.php:84
+msgid "Footer Bottom Bar"
+msgstr "Baris Bawah Footer"
+
+#: inc/customizer/register-panels-and-sections.php:431
+#: inc/admin/class-zakra-dashboard.php:83
+msgid "Footer Widgets"
+msgstr "Widget Footer"
+
+#: inc/customizer/register-panels-and-sections.php:144
+msgid "Base Typography"
+msgstr "Tipografi Dasar"
+
+#: inc/customizer/register-panels-and-sections.php:187
+msgid "Button"
+msgstr "Tombol"
+
+#: inc/customizer/register-panels-and-sections.php:91
+msgid "Link Colors"
+msgstr "Warna Tautan"
+
+#: inc/customizer/register-panels-and-sections.php:105
+#: inc/customizer/options/content/class-zakra-customize-page-header-option.php:232
+#: inc/customizer/options/footer/class-zakra-customize-footer-widget-option.php:120
+#: inc/customizer/options/footer/class-zakra-customize-footer-bottom-bar-option.php:242
+#: inc/customizer/options/header/class-zakra-customize-header-top-option.php:270
+msgid "Background"
+msgstr "Latar Belakang"
+
+#: inc/customizer/register-panels-and-sections.php:77
+msgid "Base Colors"
+msgstr "Warna Dasar"
+
+#: inc/customizer/options/content/class-zakra-customize-page-header-option.php:31
+msgid "Page Title"
+msgstr "Judul Halaman"
+
+#: inc/customizer/register-panels-and-sections.php:365
+#: inc/customizer/options/global/class-zakra-customize-sidebar-layout-option.php:61
+#: inc/admin/class-zakra-dashboard.php:78
+msgid "Blog/Archive"
+msgstr "Blog/Arsip"
+
+#: inc/customizer/options/header/class-zakra-customize-mobile-menu-option.php:56
+#: inc/admin/class-zakra-dashboard.php:76
+msgid "Mobile Menu"
+msgstr "Menu HP"
+
+#: inc/customizer/register-panels-and-sections.php:254
+#: inc/admin/class-zakra-dashboard.php:74
+msgid "Header Main Area"
+msgstr "Area Header Utama"
+
+#: inc/customizer/register-panels-and-sections.php:241
+#: inc/admin/class-zakra-dashboard.php:73
+msgid "Header Top Bar"
+msgstr "Baris Header Atas"
+
+#: inc/admin/class-zakra-welcome-notice.php:26
+msgid "Get started with Zakra"
+msgstr "Mulai bersama Zakra"
+
+#: inc/admin/class-zakra-notice.php:63 inc/admin/class-zakra-notice.php:82
+#: inc/admin/class-zakra-welcome-notice.php:78
+msgid "Cheatin&#8217; huh?"
+msgstr "Curang, hah?"
+
+#: inc/admin/class-zakra-notice.php:59 inc/admin/class-zakra-notice.php:78
+#: inc/admin/class-zakra-welcome-notice.php:74
+msgid "Action failed. Please refresh the page and retry."
+msgstr "Tindakan gagal. Harap muat ulang halaman dan coba lagi."
+
+#: inc/admin/class-zakra-theme-review-notice.php:94
+msgid "Got theme support question?"
+msgstr "Ada pertanyaan bantuan tema?"
+
+#: inc/admin/class-zakra-dashboard.php:104
+msgid "Documentation"
+msgstr "Dokumentasi"
+
+#: inc/admin/class-zakra-dashboard.php:103
+msgid "Support"
+msgstr "Bantuan"
+
+#: inc/helpers.php:157
+msgid "Copyright &copy; %1$s %2$s. Theme: %3$s By ThemeGrill."
+msgstr "Hak Cipta &copy; %1$s %2$s. Tema: %3$s Oleh ThemeGrill."
+
+#: inc/meta-boxes/class-zakra-meta-box.php:39
+msgid "Page Settings"
+msgstr "Pengaturan Halaman"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:367
+msgid "Enable Page Header"
+msgstr "Adakan Header Halaman"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:347
+#: inc/customizer/options/header/class-zakra-customize-primary-menu-item-option.php:43
+msgid "Right Border"
+msgstr "Pembatas Kanan"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:345
+#: inc/customizer/options/header/class-zakra-customize-primary-menu-item-option.php:42
+msgid "Left Border"
+msgstr "Pembatas Kiri"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:343
+#: inc/customizer/options/header/class-zakra-customize-primary-menu-item-option.php:41
+msgid "Underline Border"
+msgstr "Pembatas Bawah"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:336
+#: inc/customizer/options/header/class-zakra-customize-primary-menu-item-option.php:35
+msgid "Active Menu Item Style"
+msgstr "Gaya Menu Item yang Aktif"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:325
+#: inc/customizer/options/header/class-zakra-customize-primary-menu-item-option.php:150
+msgid "Menu Item Active Color"
+msgstr "Warna Item menu yang Aktif"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:312
+#: inc/customizer/options/header/class-zakra-customize-primary-menu-item-option.php:114
+msgid "Menu Item Hover Color"
+msgstr "Warna Item Menu yang Disentuh"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:300
+#: inc/customizer/options/header/class-zakra-customize-primary-menu-item-option.php:82
+msgid "Menu Item Color"
+msgstr "Warna Item Menu"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:250
+#: inc/customizer/options/footer/class-zakra-customize-footer-bottom-bar-option.php:35
+#: inc/customizer/options/header/class-zakra-customize-header-main-option.php:35
+msgid "Style"
+msgstr "Gaya"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:238
+msgid "Remove Logo"
+msgstr "Singkirkan Logo"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:234
+msgid "Upload Logo"
+msgstr "Unggah Logo"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:221
+msgid "Logo"
+msgstr "Logo"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:189
+msgid "Enable Transparent Header"
+msgstr "Adakan Header Transparan"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:143
+msgid "Remove content margin"
+msgstr "Singkirkan jarak konten"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:92
+#: inc/customizer/register-panels-and-sections.php:352
+#: inc/customizer/options/content/class-zakra-customize-page-header-option.php:49
+msgid "Page Header"
+msgstr "Header Halaman"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:87
+#: inc/customizer/register-panels-and-sections.php:295
+#: inc/customizer/options/header/class-zakra-customize-primary-menu-item-option.php:195
+#: inc/hooks/header.php:459 inc/admin/class-zakra-dashboard.php:75
+msgid "Primary Menu"
+msgstr "Menu Utama"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:77
+msgid "General"
+msgstr "Utama"
+
+#: inc/woocommerce.php:112 inc/woocommerce.php:146
+msgid "View your shopping cart"
+msgstr "Lihat keranjang belanja"
+
+#: 404.php:24
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Sepertinya tidak ada apa-apa disini. Cobalah salah satu link di bawah atau cobalah pencarian?"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:165 functions.php:106
+msgid "Footer Four"
+msgstr "Footer Empat"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:164 functions.php:105
+msgid "Footer Three"
+msgstr "Footer Tiga"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:163 functions.php:104
+msgid "Footer Two"
+msgstr "Footer Dua"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:162 functions.php:103
+msgid "Footer One"
+msgstr "Footer Satu"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:161 functions.php:100
+msgid "Sidebar Left"
+msgstr "Sidebar Kiri"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:160 functions.php:99
+msgid "Sidebar Right"
+msgstr "Sidebar Kanan"
+
+#: functions.php:102
+msgid "Header Top Bar Right Sidebar"
+msgstr "Baris Header Atas Sidebar Kanan"
+
+#: functions.php:101
+msgid "Header Top Bar Left Sidebar"
+msgstr "Baris Header Atas Sidebar Kiri"
+
+#. Author URI of the theme
+msgid "https://themegrill.com"
+msgstr "https://themegrill.com"
+
+#. Author of the theme
+msgid "ThemeGrill"
+msgstr "ThemeGrill"
